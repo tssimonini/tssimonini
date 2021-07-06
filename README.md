@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello how are you? 👋
+### I am Tiago Simonini! 🧙‍♂️
+### Welcome to my GitHub, I hope to contribute! 🎆
 
 <!--
 **tssimonini/tssimonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
